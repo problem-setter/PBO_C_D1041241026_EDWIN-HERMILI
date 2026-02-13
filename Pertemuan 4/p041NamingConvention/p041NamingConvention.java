@@ -10,9 +10,9 @@ public class p041NamingConvention {
         String studentName = "Budi";
         boolean isActive = true;
 
-        System.out.println("Nama: " + studentName);
-        System.out.println("Umur: " + studentAge);
-        System.out.println("Status: " + isActive);
-        System.out.println("Konstanta PI: " + PI);
+        System.out.println("Nama          : " + studentName);
+        System.out.println("Umur          : " + studentAge);
+        System.out.println("Status        : " + isActive);
+        System.out.println("Konstanta PI  : " + PI);
     }
 }

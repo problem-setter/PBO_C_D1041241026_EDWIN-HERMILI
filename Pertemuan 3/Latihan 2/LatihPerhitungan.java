@@ -1,3 +1,9 @@
+/*
+NIM     : D1041241026
+Nama    : Edwin Hermili
+Program untuk operasi aritmatika sederhana dan perubahan nilai variabel
+*/
+
 public class LatihPerhitungan {
     public static void main(String[] args) {
         int saldo = 1000000;
