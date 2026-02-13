@@ -4,15 +4,20 @@
 
 public class p042OperatorAritmatika {
     public static void main(String[] args) {
-        int x = 5;
-        System.out.println("Nilai awal x: " + x);
-        x++;
-        System.out.println("Setelah x++: " + x);
-        x--;
-        System.out.println("Setelah x--: " + x);
+        int a = 10;
+        int b = 3;
+        System.out.println("a = " + a);
+        System.out.println("b = " + b);
+        System.out.println();
 
-        // Compound assignment
-        x += 10;
-        System.out.println("Setelah x += 10: " + x);
+        System.out.println("a + b = " + (a + b));
+        System.out.println("a - b = " + (a - b));
+        System.out.println("a * b = " + (a * b));
+        System.out.println("a / b = " + (a / b));
+        System.out.println("a % b = " + (a % b));
+
+        // Pembagian dengan desimal
+        double hasil = (double) a / b;
+        System.out.println("a / b (desimal) = " + hasil);
     }
 }
