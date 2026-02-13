@@ -1,3 +1,9 @@
+/*
+NIM     : D1041241026
+Nama    : Edwin Hermili
+Program untuk menyimpan dan menampilkan data mahasiswa
+*/
+
 public class LatihDataMahasiswa {
     public static void main(String[] args) {
         String nim = "230101001";

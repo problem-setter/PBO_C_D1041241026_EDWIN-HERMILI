@@ -1,3 +1,9 @@
+/*
+NIM     : D1041241026
+Nama    : Edwin Hermili
+Program untuk tipe data
+*/
+
 public class p023PrimitiveData {
     public static void main(String[] args) {
         // Tipe data bilangan bulat

@@ -1,3 +1,9 @@
+/*
+NIM     : D1041241026
+Nama    : Edwin Hermili
+Program untuk penggunaan literal berbagai tipe data primitif
+*/
+
 public class LatihLiteral {
     public static void main(String[] args) {
         byte nilaiMaksimumByte = 127;
