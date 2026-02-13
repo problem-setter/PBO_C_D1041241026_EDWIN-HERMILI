@@ -5,7 +5,7 @@ Program untuk variable
 */
 
 
-public class learning {
+public class p022WorkingVariable {
     public static void main(String[] args) {
         // Dekrasi dan inisialisasi variabel
         int angka = 10;
